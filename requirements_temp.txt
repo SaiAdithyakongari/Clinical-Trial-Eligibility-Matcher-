@@ -1,0 +1,7 @@
+# Clinical Trial Eligibility Matcher - Core Dependencies
+streamlit==1.38.0
+pypdf==4.3.1
+pdfplumber==0.11.4
+reportlab==4.2.2
+requests==2.32.3
+python-dotenv==1.0.1

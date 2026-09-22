@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Trial Eligibility Matcher",
+  "description": "GenAI-powered clinical trial eligibility matching system with RAG, criteria comparison, missing information detection, and researcher review reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,28 @@
+# Clinical Trial Eligibility Matcher - Core Dependencies
+streamlit==1.38.0
+
+# PDF Processing
+pypdf==4.3.1
+pdfplumber==0.11.4
+reportlab==4.2.2
+
+# Core utilities
+requests==2.32.3
+python-dotenv==1.0.1
+
+# LLM Providers (optional, but recommended)
+google-generativeai>=0.3.0
+openai>=1.6.1
+anthropic>=0.25.0
+
+# Embeddings & Vector Store
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Performance & Caching
+cachetools>=5.3.0
+
+# Data processing
+pandas>=2.0.0
+PyYAML>=6.0
